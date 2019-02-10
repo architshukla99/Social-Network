@@ -1,4 +1,4 @@
-struct coordinates{
+struct coordinates{//archit
 	int latitude; // Storing the latitute of a ceratin place
 	int longitude; //Storing the longitude of a certain place
 };
