@@ -1,6 +1,6 @@
 #include "location.h"
 
-#define threshold 500
+#define threshold 550
 
 
 void flist(Friend & obj,int c){
